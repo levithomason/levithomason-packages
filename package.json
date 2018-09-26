@@ -1,6 +1,6 @@
 {
   "name": "levithomason-packages",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "testing packages",
   "main": "index.js",
   "license": "MIT"
